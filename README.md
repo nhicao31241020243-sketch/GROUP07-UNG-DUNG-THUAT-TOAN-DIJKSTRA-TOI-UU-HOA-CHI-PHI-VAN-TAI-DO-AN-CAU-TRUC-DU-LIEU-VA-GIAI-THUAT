@@ -13,7 +13,7 @@ ______
 
 ## Lời cảm ơn
 
-Chúng em xin gửi lời cảm ơn chân thành đến Giảng viên hướng dẫn - TS. ĐẶNG NGỌC HOÀNG THÀNH  đã tận tình giảng dạy, hướng dẫn và đồng hành cùng chúng em trong suốt học kỳ vừa qua. Sự chỉ dẫn rõ ràng, kiên nhẫn và tinh thần luôn sẵn sàng hỗ trợ của thầy đã giúp chúng em hiểu rõ hơn những kiến thức nền tảng cũng như cách áp dụng giải thuật vào thực tế. 
+Chúng em xin gửi lời cảm ơn chân thành đến *Giảng viên hướng dẫn - TS. ĐẶNG NGỌC HOÀNG THÀNH* đã tận tình giảng dạy, hướng dẫn và đồng hành cùng chúng em trong suốt học kỳ vừa qua. Sự chỉ dẫn rõ ràng, kiên nhẫn và tinh thần luôn sẵn sàng hỗ trợ của thầy đã giúp chúng em hiểu rõ hơn những kiến thức nền tảng cũng như cách áp dụng giải thuật vào thực tế. 
 
 Mặc dù môn học và đề tài dự án có nhiều thử thách, nhưng đây cũng là cơ hội quý giá để chúng em rèn luyện tư duy thuật toán, kỹ năng làm việc nhóm và khả năng giải quyết vấn đề. Với sự nỗ lực của cả nhóm cùng sự hướng dẫn và hỗ trợ từ thầy, chúng em đã hoàn thành dự án một cách trọn vẹn.
 
@@ -59,6 +59,7 @@ thông dựa trên các yếu tố chính:
   <img src="images/image05.png" width="45%" />
   <img src="images/image03.png" width="45%" />
 </p>
+
 
 
 
